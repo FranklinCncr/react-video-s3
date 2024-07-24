@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <h1>Aplicacion Web de Video</h1>
       <Video/>
-      <Video/>
     </div>
   );
 }
