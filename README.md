@@ -1,1 +1,1 @@
-[!plot](./image/aplicacion.jpg)
+![plot](./image/aplicacion.jpg)
